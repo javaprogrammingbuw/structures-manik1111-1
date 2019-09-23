@@ -13,6 +13,8 @@ public class SumMeanMinMax {
 		int b = scan.nextInt();
 		int c = scan.nextInt();
 		
+		System.out.println("a: " + a + " b: " + b + " c: " + c);
+
 		/*
 		 * Todo: Print the sum, mean, max Value and min Value of a, b and c.
 		 * */
